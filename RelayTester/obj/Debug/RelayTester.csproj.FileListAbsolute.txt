@@ -1,0 +1,50 @@
+C:\Users\Petro\source\repos\RelayTester\RelayTester\bin\Debug\RelayTester.exe.config
+C:\Users\Petro\source\repos\RelayTester\RelayTester\bin\Debug\RelayTester.exe
+C:\Users\Petro\source\repos\RelayTester\RelayTester\bin\Debug\RelayTester.pdb
+C:\Users\Petro\source\repos\RelayTester\RelayTester\obj\Debug\RelayTester.csprojAssemblyReference.cache
+C:\Users\Petro\source\repos\RelayTester\RelayTester\obj\Debug\RelayTester.Form1.resources
+C:\Users\Petro\source\repos\RelayTester\RelayTester\obj\Debug\RelayTester.Properties.Resources.resources
+C:\Users\Petro\source\repos\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.GenerateResource.cache
+C:\Users\Petro\source\repos\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.CoreCompileInputs.cache
+C:\Users\Petro\source\repos\RelayTester\RelayTester\obj\Debug\RelayTester.exe
+C:\Users\Petro\source\repos\RelayTester\RelayTester\obj\Debug\RelayTester.pdb
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\bin\Debug\RelayTester.exe.config
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\bin\Debug\RelayTester.exe
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\bin\Debug\RelayTester.pdb
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.Form1.resources
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.Properties.Resources.resources
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.GenerateResource.cache
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.CoreCompileInputs.cache
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.exe
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.pdb
+C:\Users\Esprimo\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\RelayTester\RelayTester\bin\Debug\RelayTester.exe.config
+C:\Users\Home\Desktop\RelayTester\RelayTester\bin\Debug\RelayTester.exe
+C:\Users\Home\Desktop\RelayTester\RelayTester\bin\Debug\RelayTester.pdb
+C:\Users\Home\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.Form1.resources
+C:\Users\Home\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.Properties.Resources.resources
+C:\Users\Home\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.exe
+C:\Users\Home\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.pdb
+C:\Users\Home\Desktop\RelayTester\RelayTester\obj\Debug\RelayTester.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\bin\Debug\RelayTester.exe.config
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\bin\Debug\RelayTester.exe
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\bin\Debug\RelayTester.pdb
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Debug\RelayTester.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Debug\RelayTester.Form1.resources
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Debug\RelayTester.Properties.Resources.resources
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Debug\RelayTester.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Debug\RelayTester.exe
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Debug\RelayTester.pdb
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\bin\Debug\RelayTester.exe.config
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\bin\Debug\RelayTester.exe
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\bin\Debug\RelayTester.pdb
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\obj\Debug\RelayTester.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\obj\Debug\RelayTester.Form1.resources
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\obj\Debug\RelayTester.Properties.Resources.resources
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\obj\Debug\RelayTester.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\obj\Debug\RelayTester.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\obj\Debug\RelayTester.exe
+C:\Users\Home\Desktop\Electronics\RelayTester\Новая папка\RelayTester\obj\Debug\RelayTester.pdb

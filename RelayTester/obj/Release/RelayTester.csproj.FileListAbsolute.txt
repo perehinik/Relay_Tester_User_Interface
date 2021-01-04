@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\bin\Release\RelayTester.exe.config
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\bin\Release\RelayTester.exe
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\bin\Release\RelayTester.pdb
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Release\RelayTester.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Release\RelayTester.Form1.resources
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Release\RelayTester.Properties.Resources.resources
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Release\RelayTester.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Release\RelayTester.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Release\RelayTester.exe
+C:\Users\Home\Desktop\Electronics\RelayTester\RelayTester\obj\Release\RelayTester.pdb
